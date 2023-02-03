@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\bin\Debug\net6.0\lesson1.9.exe
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\bin\Debug\net6.0\lesson1.9.deps.json
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\bin\Debug\net6.0\lesson1.9.runtimeconfig.json
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\bin\Debug\net6.0\lesson1.9.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\bin\Debug\net6.0\lesson1.9.pdb
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.AssemblyInfo.cs
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\refint\lesson1.9.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.pdb
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\lesson1.9.genruntimeconfig.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.9\obj\Debug\net6.0\ref\lesson1.9.dll

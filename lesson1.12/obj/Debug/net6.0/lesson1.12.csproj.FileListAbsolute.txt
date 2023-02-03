@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\bin\Debug\net6.0\lesson1.12.exe
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\bin\Debug\net6.0\lesson1.12.deps.json
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\bin\Debug\net6.0\lesson1.12.runtimeconfig.json
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\bin\Debug\net6.0\lesson1.12.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\bin\Debug\net6.0\lesson1.12.pdb
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.AssemblyInfo.cs
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\refint\lesson1.12.dll
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.pdb
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\lesson1.12.genruntimeconfig.cache
+C:\Users\defaultuser0\Desktop\Studies\lesson1.12\obj\Debug\net6.0\ref\lesson1.12.dll
